@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Find My Age</string>
+    <string name="type_tour_age">When were you born?</string>
+    <string name="calculate">Calculate</string>
+    <string name="age">Your Age: %s</string>
+    <string name="year">Button</string>
+</resources>
